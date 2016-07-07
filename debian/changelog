@@ -1,3 +1,9 @@
+mogilefs-utils (2.29) stable; urgency=medium
+
+  * pull from upstream
+
+ -- Vortex <aleksey.yakovenko@gmail.com>  Thu, 7 Jul 2016 23:14:11 -0200
+
 mogilefs-utils (0.01-1) unstable; urgency=low
 
   * Initial release
